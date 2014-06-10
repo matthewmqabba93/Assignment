@@ -18,7 +18,7 @@ function createCoin()
 function Start () {
 
 
- InvokeRepeating("createCoin",1.0,2.0);
+ InvokeRepeating("createCoin",1.0,3.0);
 }
 
 function Update () {
